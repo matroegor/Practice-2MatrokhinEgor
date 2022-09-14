@@ -6,4 +6,5 @@ if x<200:
 while x<200:
     print("Hello world")
     x+=50
-print("hello world")
+for i in range(5):
+    print("Здравствуй мир", i*"!")
